@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tommy-Praise&show_icons=true&title_color=70a5fd&text_color=FFFFFF&icon_color=bf91f3&bg_color=0d1117&border_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tommy-Praise&show_icons=true&title_color=70a5fd&text_color=FFFFFF&icon_color=bf91f3&bg_color=11151c&border_color=11151c)
 
 
 ## Github Languages
