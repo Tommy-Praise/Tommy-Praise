@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 
 ## Github Languages
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-Praise&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyPraise&langs_count=5&title_color=70a5fd&text_color=c3d1d9&bg_color=11151c&border_color=11151c&icon_color=bf91f3)]()
 
 ## About Me
 
